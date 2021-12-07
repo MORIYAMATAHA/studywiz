@@ -6,4 +6,4 @@ For c++
 -FeatureA is added at new branch
 -fix-B
 -Feature-C
--Feature-D+
+-Feature-D++
